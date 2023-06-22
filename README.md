@@ -1,2 +1,2 @@
 # 2016-House-Election-Project
-waddup dawg
+Please view the USA Poltiical Race Analysis notebook preview to see the whole project.
